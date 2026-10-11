@@ -1,1 +1,1 @@
-What is the capital of france? /Paris|France\
+Yes or hell no? /y|n\
