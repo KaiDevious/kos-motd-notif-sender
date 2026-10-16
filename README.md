@@ -1,5 +1,5 @@
 # kOS Message of the Day & Notification Sender
-kOS MOTD & Notification Sender is a simple tool that can ~~bake a cake~~ send notifications to the kOS Website and update the Message of the Day (MOTD) for both the website and Konsole.
+kOS MOTD & Notification Sender is a simple tool that can ~~bake a cake~~ send notifications to the [kOS Website](https://kaidevious.github.io/kOS/) and update the Message of the Day (MOTD) for both the website and Konsole.
 
 ## Features
 Send notifications to the kOS website
