@@ -1,7 +1,18 @@
-# kOS Message Of The Day and Notification sender.
+# kOS Message of the Day & Notification Sender
+kOS MOTD & Notification Sender is a simple tool that can ~~bake a cake~~ send notifications to the kOS Website and update the Message of the Day (MOTD) for both the website and Konsole.
 
-This is kOS MOTD and Notification sender, It can ~~bake a cake~~ send notifications to the website [kOS Website](https://kaidevious.github.io/kOS/) and set the message of the day. (in konsole and website.)
+## Features
+Send notifications to the kOS website
+Update the website's Message of the Day
+Display the MOTD in Konsole
+Open source and customizable
+## How to Use
+Use the Broadcaster for your distro.
 
-> How to use:
+Since the project is open source, you can modify it however you like. If you need help, you can always ask an AI for code. For example:
 
-In the (your distro) Broadcaster- (yes this is open source and if you want code just ask ai. eg. "Put my message.txt from github update every minute in Konsole and notify.txt detect whether a change has been made to the file and send to (your distro)"). 
+"Update my message.txt from GitHub every minute in Konsole, and monitor notify.txt for changes. When a change is detected, send a notification to (your distro)."
+
+Once you've configured it...
+
+That's It!
